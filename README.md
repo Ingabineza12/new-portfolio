@@ -15,8 +15,8 @@ you need an internet
 a github account to access it
 now you can see the portfolio
 
-## link to live page 
-ingabineza12.github.io/new-portfolio/.
+## link to live page
+https://ingabineza12.github.io/new-portfolio/
 
 ## copyright and licence
 
